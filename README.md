@@ -1,4 +1,4 @@
 # food-ordering-app
 An online food ordering app developed using Kotlin and XML.
-API taken from another repo
+API scripts taken from another repo
 
